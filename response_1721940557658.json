@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "price": 15,
+  "quantity": 10,
+  "name": "updated item",
+  "description": "this item is updated"
+}
